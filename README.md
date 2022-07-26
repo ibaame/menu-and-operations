@@ -1,4 +1,4 @@
-<h1 style = "text-align:center;">menu and operations</h1>
+<h1 align = "center" >menu and operations</h1>
 
 
 ## **Functional Requirements**
@@ -77,6 +77,3 @@ In either case, if the user presses a space bar, the program return to the main 
 
 ### option 7
 <img src = "simpleOutput/7.png" />
-<br>
-
-
